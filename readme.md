@@ -1,6 +1,6 @@
 # Project paytm-clone
 
-[Live link](https://harmonious-sable-49795d.netlify.app)
+[Live link](https://paytm-clone213.netlify.app/)
 ## Name:Vaishnavi Jaju
 
 **The project almost 3 days to complete.**
