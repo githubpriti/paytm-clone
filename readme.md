@@ -1,6 +1,6 @@
 # Project paytm-clone
 
-[Live link](https://paytm-clone213.netlify.app/)
+[Live link](https://paytm-clone-liard.vercel.app/)
 ## Name:Vaishnavi Jaju
 
 **The project almost 3 days to complete.**
